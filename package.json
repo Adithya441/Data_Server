@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^9.0.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
